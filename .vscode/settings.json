@@ -1,0 +1,10 @@
+{
+    "nix.formatterPath": "nixfmt",
+    "nix.serverSettings": {
+      "nil": {
+        "formatting": {
+          "command": ["nixfmt"]
+        }
+      }
+    }
+}

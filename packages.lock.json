@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "ConsoleTableExt": {
+        "type": "Direct",
+        "requested": "[3.3.0, )",
+        "resolved": "3.3.0",
+        "contentHash": "kQ1P7mgDQbvEDXGt1sheOQbu37TidLnOv7RjcSCqW8m/weFtu4adMkN75YQHp4mSqquokGdBJOAKGiegLx2Nhg=="
+      }
+    }
+  }
+}
