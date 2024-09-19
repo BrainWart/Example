@@ -7,10 +7,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+    <RuntimeIdentifiers>linux-arm64;win-x86;win-x64</RuntimeIdentifiers>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="ConsoleTableExt" Version="3.3.0" />
+    <PackageReference Include="PiperSharp" Version="1.0.5" />
   </ItemGroup>
 
 </Project>
